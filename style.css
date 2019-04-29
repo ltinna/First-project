@@ -1,0 +1,27 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+color: Green;
+}
+
+
+.category {
+    font-family: Arial;
+    margin-left: 10px;
+}
+
+.category strong {
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+img {
+  border: 8px green dotted;
+  padding: 8px;
+}
+
+img:hover {
+  border: 8px green solid;
+}
